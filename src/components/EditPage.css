@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,500,300italic,500italic,700italic,900,300);
+
+body,html{
+  font-family: "Roboto", 'Helvetica Neue, Helvetica, Arial';
+  color: rgba(33, 33, 33, 0.87);
+}
+
+
+
+input {
+	 background:#fff;
+	 border:0px !important;
+	 border-color: transparent;
+	 border-bottom: 1px solid #f50057;
+}
+
+
+textarea{
+	width: 100% !important;
+	padding: 1%;
+	border:0px #fff;
+	margin-top: 2px;
+}

@@ -1,0 +1,17 @@
+.centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.fa:hover {
+	font-size: 1.33em;
+	vertical-align: -25%;
+}
+
+
+.ui.menu.blue.inverted.Change:hover {
+    background-color: black !important;
+  }
+
