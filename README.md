@@ -1,5 +1,6 @@
-# CRUD With React and Redux
-The main goal of this was to use Redux and create a multi-user application
-where users can sign in or sign up using their email-address and password. They can create,
-edit,update and delete posts and view them. 
-[Demo](http://tough-interest.surge.sh)
+# tuvoice beta release
+A react based application with firebase and firebase deploy
+CRUD Options
+Oauth
+### sign up for an account
+### login & share suggestion
