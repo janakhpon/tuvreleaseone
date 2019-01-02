@@ -1,7 +1,8 @@
-# tuvoice beta release
-https://ei-sgallery-41a7f.firebaseapp.com/
-A react based application with firebase and firebase deploy
-CRUD Options
-Oauth
+### tuvoice beta release
 ### sign up for an account
 ### login & share suggestion
+
+  This is a beta release of Technological Universities Related webpage for suggestions and updates in TU. Avialble to all students who want to share outlook and suggestions on how TU should be formed and upgraded for the better future.
+  Users must be sign up to use this app with email address and share the topics, contents and #notes to tuVoice.
+  Feedback and Help options are availe for positive feedbacks and suggestions on System and Designs on how to be better and also if user ran into errors, user can inform developers directly what to do and how to do.
+  Using multi languages display for internalization so user could be more relaxed concerning languages.
