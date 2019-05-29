@@ -10,11 +10,11 @@
 
 clone the repository
 
-    git clone https://github.com/janakhpon/EtodoAPI.git
+    git clone https://github.com/janakhpon/tureleaseone.git
 
 Get into root folder
 
-    cd EtodoAPI
+    cd tureleaseone
 
 Install Dependencies using [npm](https://www.npmjs.com/)
 
@@ -52,14 +52,3 @@ sudo npm start
 # USAGES
 EtodoAPI support GET,POST,PUT and DELETE method.
 
-```bash
-GET = https://expresstodoapi.herokuapp.com/api/todos
-POST = https://expresstodoapi.herokuapp.com/api/todos
-```
-and
-
-```bash
-GET = https://expresstodoapi.herokuapp.com/api/todos/id
-PUT = https://expresstodoapi.herokuapp.com/api/todos/id
-DELETE = https://expresstodoapi.herokuapp.com/api/todos/id
-```
